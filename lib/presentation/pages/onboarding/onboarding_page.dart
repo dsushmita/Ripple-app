@@ -74,7 +74,7 @@ class _OnboardingPageState extends State<OnboardingPage> {
               ),
             ),
 
-            // Next button
+            // Next button with new features
             Padding(
               padding: const EdgeInsets.all(16.0),
               child: SizedBox(
